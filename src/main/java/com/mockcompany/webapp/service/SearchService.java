@@ -69,8 +69,7 @@ public class SearchService {
             }
         }
         // Return results
-        Collection<ProductItem> toreturn = new ArrayList<>();
 
-        return toreturn;
+        return itemList;
     }
 }
